@@ -1,0 +1,117 @@
+shot,start_seconds,end_seconds,set,picture,narration
+p001,0,2.35,square,floor,You’re standing on a wooden platform.
+p002,2.35,3.86,square,crowd,There’s a crowd below you.
+p003,3.86,5.47,square,clock,A clock above you.
+p004,5.47,8.49,square,equipment,"And behind you, someone is checking the equipment."
+p005,8.49,10.34,square,face,You want to know one thing.
+p006,10.34,13.37,square,clock,How long? Seconds? Minutes?
+p007,13.37,16.27,square,sunset,Could you still be here when the sun goes down?
+p008,16.27,19.68,gallery,doors,Five doors. Five different executions.
+p009,19.68,25.37,gallery,doors,We’re going from the one designed to finish quickly to punishments where finishing quickly was never the point.
+p010,25.37,27.29,square,clock,But watch the clock carefully.
+p011,27.29,30.41,square,distinction,Losing consciousness and dying aren’t the same moment.
+p012,30.41,33.9,square,distinction,And history rarely recorded either one precisely.
+h001,33.9,37.74,france,wide / france,The first door opens onto a square in revolutionary France.
+h002,37.74,39.45,france,insert / france,Above you hangs a blade.
+h003,39.45,40.57,france,insert / france,The guillotine.
+h004,40.57,42.47,france,face / france,You recognize it immediately.
+h005,42.47,46.47,france,archive / france,Which is more than you can say for the people who thought this counted as progress.
+h006,46.47,52.61,france,archive / france,Its supporters argued that a machine could make execution quicker and more consistent than an executioner with a sword.
+h007,52.61,56.82,france,equal / france,Same mechanism. Same punishment. Whatever your name or social class.
+h008,56.82,61.18,france,mechanics / france,"From the crowd’s perspective, the decisive action happens almost immediately."
+h009,61.18,63.62,france,archive / france,But then comes the story everyone has heard.
+h010,63.62,64.71,france,face / france,The eyes blinked.
+h011,64.71,65.77,france,face / france,The lips moved.
+h012,65.77,68.63,france,archive / france,Someone supposedly answered when their name was called.
+h013,68.63,70.93,france,face / france,Does that mean consciousness continued?
+h014,70.93,72.31,france,awareness / france,Not necessarily.
+h015,72.31,78.08,france,awareness / france,Movement alone cannot prove awareness. Reflexes and conscious responses are different things.
+h016,78.08,84.53,france,uncertainty / france,"Medical reviews suggest consciousness would be lost very rapidly, but the exact interval in humans remains uncertain."
+h017,84.53,89.12,france,uncertainty / france,So those confident stories about someone watching the world for a full minute afterward?
+h018,89.12,92.49,france,archive / france,"Treat them as stories, not a verified countdown."
+h019,92.49,95.34,france,timeline / france,This door belongs at the fast end of our timeline.
+h020,95.34,99.47,france,face / france,But “fast” doesn’t tell us what every final moment felt like.
+h021,99.47,101.1,prison,door / prison,The next door opens.
+h022,101.1,102.48,prison,wide / prison,You’re in a prison yard.
+h023,102.48,104.72,prison,insert / prison,No blade this time. A rope.
+h024,104.72,106.36,prison,mechanics / prison,You’ve seen this scene in movies.
+h025,106.36,110.65,prison,mechanics / prison,"The floor opens, the body drops, and the camera immediately cuts away."
+h026,110.65,112.88,prison,face / prison,That cut is doing a lot of work.
+h027,112.88,118.04,prison,archive / prison,Because “hanging” describes executions carried out in different ways across different centuries.
+h028,118.04,122.42,prison,mechanics / prison,Some judicial methods were intended to cause catastrophic injury immediately.
+h029,122.42,124.49,prison,mechanics / prison,Others did not produce that result.
+h030,124.49,128.82,prison,circulation / prison,Pressure on the neck can interrupt circulation to the brain and interfere with breathing.
+h031,128.82,131.97,prison,heart / prison,The person may become unconscious before the heart stops.
+h032,131.97,137.82,prison,archive / prison,"Which means a witness saying, “It took several minutes,” might be describing the time until death was confirmed."
+h033,137.82,140.4,prison,heart / prison,Not several minutes of continuous awareness.
+h034,140.4,142.75,prison,awareness / prison,You cannot read one from the other.
+h035,142.75,147.31,prison,uncertainty / prison,"The honest answer here is a wide range of outcomes, not one number."
+h036,147.31,150.8,prison,mechanics / prison,And the executioners’ intention was never a guarantee.
+h037,150.8,152.55,prison,wide / prison,You look back at the platform.
+h038,152.55,156.33,prison,insert / prison,"For the first time, the clock seems less useful than you hoped."
+h039,156.33,159.17,tudor,wide / tudor,The third door opens onto a public square.
+h040,159.17,162.4,tudor,insert / tudor,There’s no complicated machine. Just a wooden stake.
+h041,162.4,164.39,tudor,flame / tudor,And smoke beginning to rise.
+h042,164.39,170.94,tudor,archive / tudor,"Burning at the stake was a real public punishment, used in religious persecution as well as other judicial settings."
+h043,170.94,176.0,tudor,archive / tudor,"In Tudor England, people were executed this way for beliefs authorities called heresy."
+h044,176.0,179.63,tudor,flame / tudor,"Standing here, you expect the flames to explain everything."
+h045,179.63,182.2,tudor,smoke / tudor,But fire can kill in more than one way.
+h046,182.2,187.55,tudor,smoke / tudor,Smoke contains gases that interfere with the body’s ability to obtain or use oxygen.
+h047,187.55,190.62,tudor,smoke / tudor,Breathing injuries can be fatal alongside burns.
+h048,190.62,195.45,tudor,uncertainty / tudor,So the height of the flames cannot tell you exactly how long someone remained conscious.
+h049,195.45,197.45,tudor,archive / tudor,Neither can an old illustration.
+h050,197.45,200.09,tudor,face / tudor,You want the narrator to give you a neat number.
+h051,200.09,201.72,tudor,uncertainty / tudor,Three minutes. Ten.
+h052,201.72,204.07,tudor,door / tudor,Something you can put beside the other doors.
+h053,204.07,210.18,tudor,uncertainty / tudor,"But historical circumstances varied, and surviving accounts do not justify a universal stopwatch."
+h054,210.18,213.23,tudor,face / tudor,"Here, the uncertainty is part of the horror."
+h055,213.23,214.73,tudor,wide / tudor,The crowd could watch.
+h056,214.73,217.9,tudor,face / tudor,That didn’t mean they understood what they were seeing.
+h057,217.9,219.55,roman,door / roman,The fourth door opens.
+h058,219.55,222.74,roman,day / roman,Bright daylight. A road outside a Roman settlement.
+h059,222.74,225.23,roman,face / roman,You look for the machine that will make this quick.
+h060,225.23,227.57,roman,wide / roman,There isn’t one. Crucifixion.
+h061,227.57,233.93,roman,exposure / roman,"The punishment combined restraint, exposure, physical injury, and an extended public display."
+h062,233.93,238.47,roman,day / roman,Its duration could stretch far beyond the brief final scene most films give it.
+h063,238.47,243.63,roman,timeline / roman,"Historical medical reviews describe survival lasting hours, and sometimes days."
+h064,243.63,248.07,roman,estimate / roman,One review gives an approximate span from six hours to four days.
+h065,248.07,251.74,roman,estimate / roman,"That is a historical estimate, not a prediction for every victim."
+h066,251.74,259.5,roman,conditions / roman,"People arrived in different conditions. Earlier injuries, dehydration, weather, and the way the punishment was carried out all mattered."
+h067,259.5,263.52,roman,archive / roman,Even the precise mechanism of death remains debated in medical literature.
+h068,263.52,270.21,roman,exposure / roman,"Different researchers have proposed different combinations of trauma, shock, and other physiological failures."
+h069,270.21,273.65,roman,day / roman,But the scale of time is clear enough to change this scene.
+h070,273.65,274.99,roman,day / roman,The sun moves.
+h071,274.99,276.5,roman,day / roman,The road empties.
+h072,276.5,278.8,roman,day / roman,People who stopped to watch go home.
+h073,278.8,281.45,roman,day / roman,And the punishment may still be continuing.
+h074,281.45,286.63,roman,calendar / roman,"For the first time, our clock needs a calendar."
+h075,286.63,288.43,wheel,door / wheel,One door remains.
+h076,288.43,290.51,wheel,insert / wheel,You hear a wooden wheel turning.
+h077,290.51,292.34,wheel,insert / wheel,You’re expecting transportation.
+h078,292.34,294.68,wheel,wide / wheel,Then you see the platform.
+h079,294.68,299.41,wheel,archive / wheel,Breaking on the wheel was used in parts of Europe as an aggravated form of execution.
+h080,299.41,302.72,wheel,wheel / wheel,The wheel was not simply a device that spun someone around.
+h081,302.72,307.58,wheel,wheel / wheel,The punishment involved severe bodily injury and could be followed by public display.
+h082,307.58,311.48,wheel,wheel / wheel,"But even here, the name doesn’t describe one identical procedure."
+h083,311.48,314.08,wheel,archive / wheel,Sentences and local practices varied.
+h084,314.08,322.0,wheel,wheel / wheel,"Historical research records cases where death was deliberately hastened, and cases where a person was killed before the public spectacle continued."
+h085,322.0,324.14,wheel,uncertainty / wheel,Other versions prolonged the ordeal.
+h086,324.14,331.48,wheel,archive / wheel,"So an image of a body displayed on a wheel does not, by itself, tell you whether that person was alive during the display."
+h087,331.48,333.18,wheel,wheel / wheel,That distinction matters.
+h088,333.18,340.26,wheel,archive / wheel,"Without it, a historical account can become a much longer, much more certain story than the evidence supports."
+h089,340.26,342.58,france,door / france,You step away from the final door.
+h090,342.58,344.03,france,door / france,Five punishments.
+h091,344.03,346.84,france,summary / france,One question that turned out to contain several.
+h092,346.84,349.06,france,summary / france,How fast did the mechanism act?
+h093,349.06,351.61,france,summary / france,How quickly did consciousness disappear?
+h094,351.61,353.34,france,summary / france,When did death occur?
+h095,353.34,356.12,france,summary / france,The answers don’t always fit the same clock.
+h096,356.12,358.99,france,timeline / france,"At one end, a moment designed to be brief."
+h097,358.99,362.66,roman,day / france,"At the other, an ordeal that could outlast the daylight."
+h098,362.66,369.69,france,face / france,And behind every uncertain number was an actual person whose experience we cannot completely reconstruct.
+h099,369.69,371.1,france,closing / france,The doors close.
+h100,371.1,372.5,france,modern / france,You’re back in the present.
+h101,372.5,374.59,france,modern / france,No platform. No crowd.
+h102,374.59,377.38,france,modern / france,Just a clock quietly moving forward.
+h103,377.38,378.98,france,closing / france,Which part surprised you most?
+h104,378.98,388.2,france,closing / france,"And what should we investigate next: the punishments history actually used, or the terrifying inventions people only think it did?"
