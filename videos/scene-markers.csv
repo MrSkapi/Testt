@@ -1,0 +1,302 @@
+scene,start_seconds,end_seconds,type,narration
+1,0,4.34,main,"The first time you catch the thief, he looks surprised."
+2,4.34,7.14,main,"The second time, he runs."
+3,7.14,13.87,main,"The third time, he turns around before you even touch him.
+
+“Seriously? We’re doing this again?”"
+4,13.87,19.09,main,"Your hand freezes above your watch.
+
+Because nobody is supposed to remember."
+5,19.09,26.57,main,"Three days earlier, your biggest problem was a sandwich.
+
+You dropped it outside the café. Cheese down. Obviously."
+6,26.57,32.92,main,"You slapped your wrist against the table.
+
+Clicked the little button on your old watch."
+7,32.92,45.55,main,"And the sandwich jumped off the pavement.
+
+Back into your hand.
+
+The café door closed. A cyclist rolled backward. Your coffee climbed back into its cup.
+
+Then everything moved forward again."
+8,45.55,51.15,main,"You were holding lunch.
+
+For about five seconds, you considered calling a scientist."
+9,51.15,53.95,main,Then you ate the sandwich.
+10,53.95,61.43,main,"The rules took an afternoon to figure out.
+
+One click sends the entire world back exactly thirty seconds."
+11,61.43,66.27,main,"Everything resets. Your position. Your pockets. Everyone’s conversations.
+
+But you remember."
+12,66.27,74.51,main,"And the little light on the watch turns red.
+
+It needs thirty seconds to recharge. Going backward doesn’t recharge it."
+13,74.51,77.72,main,So you can repeat the same half-minute.
+14,77.72,82.06,main,You can’t keep clicking your way back to last Tuesday.
+15,82.06,88.41,main,"Naturally, you use this extraordinary gift responsibly.
+
+You throw a paper ball at a bin."
+16,88.41,91.21,main,"Miss.
+
+Rewind.
+
+Miss again."
+17,91.21,95.93,main,"Fourteen attempts later, you celebrate a shot nobody knows was difficult."
+18,95.93,102.28,main,"You try ordering coffee without saying “you too” when the cashier says, “Enjoy.”
+
+Three attempts."
+19,102.28,110.0,main,"You ask someone out.
+
+They say no.
+
+You rewind and try a better opening.
+
+They say no differently."
+20,110.0,114.46,main,"Apparently, time travel has limits.
+
+By Monday, you’ve become unbearable."
+21,114.46,119.56,main,You finish people’s sentences. Catch things without looking. Never lose at rock-paper-scissors.
+22,119.56,127.66,main,"Your little sister asks why you’re suddenly so annoying.
+
+You rewind.
+
+She asks again.
+
+Some problems survive every timeline."
+23,127.66,140.92,main,"Then, outside the café, a man in a gray jacket takes a red backpack from an empty chair.
+
+The owner is inside paying.
+
+You’ve seen this moment before. He’s been watching that bag."
+24,140.92,148.9,main,"You grab his sleeve.
+
+“Put it back.”
+
+He shoves you. Coffee hits your shirt. He disappears around the corner."
+25,148.9,158.75,main,"Click.
+
+The coffee returns to its cup.
+
+The backpack returns to the chair.
+
+This time, you block the corner.
+
+He changes direction.
+
+Strange."
+26,158.75,167.6,main,"Third attempt.
+
+You wait beside the chair.
+
+Before he reaches it, he looks straight at you.
+
+“Seriously? We’re doing this again?”"
+27,167.6,174.57,main,"You check the watch.
+
+Red light.
+
+Twenty-seven seconds until you can leave this conversation.
+
+“You remember?”"
+28,174.57,182.67,main,"He looks at your wrist.
+
+Then back at your face.
+
+“Oh,” he says. “It’s you.”
+
+His name is Max."
+29,182.67,187.77,main,"Yesterday, he watched the same woman drop the same orange three times."
+30,187.77,194.12,main,"This morning, a bus arrived twice.
+
+He thought he was having some kind of breakdown."
+31,194.12,201.47,main,"Then you grabbed his sleeve.
+
+Twice.
+
+You can turn back time.
+
+Somehow, he stays awake through it."
+32,201.47,207.44,main,"You’ve spent three days believing your mistakes disappear.
+
+For one other person, they don’t."
+33,207.44,215.59,observer,Look at him. He thinks every mistake disappears. But what if someone watching could see the futures he leaves behind?
+34,215.59,222.61,observer,"What if each reset creates another branch? The same man, split across lives he will never remember."
+35,222.61,228.49,observer,"In one future, he becomes a king. He has everything, except a way back."
+36,228.49,233.62,observer,"In another, he dies. The world keeps moving. His story does not."
+37,233.62,238.75,observer,"In one, he loses his home, his money, and everyone he knows."
+38,238.75,245.01,observer,"In another, he becomes a boxer. He keeps winning, but every victory costs him something."
+39,245.01,251.65,observer,"And in one, the thief kills him. The watch falls silent. There is no second chance."
+40,251.65,258.29,observer,What if those abandoned futures keep multiplying? What if every escape pushes time closer to collapse?
+41,258.29,265.68,observer,That is only a theory. But would he still press the button if he could see the cost?
+42,265.68,273.64,main,"You point at the backpack.
+
+“Still stealing it?”
+
+He smiles.
+
+“Still stopping me?”
+
+The light turns green.
+
+Click."
+43,273.64,284.62,main,"Back beside the café.
+
+You shout to the owner.
+
+“Your bag!”
+
+Max gets there first.
+
+He points at you.
+
+“That guy keeps trying to take it.”"
+44,284.62,290.83,main,"Now the owner is holding your arm.
+
+Max walks away laughing.
+
+Thirty seconds.
+
+Click."
+45,290.83,297.3,main,"You knock the backpack under the table.
+
+Max kicks it out the other side.
+
+Click."
+46,297.3,302.26,main,"You move the chair inside.
+
+He waits by the door.
+
+Click."
+47,302.26,312.13,main,"You know what he did last time.
+
+He knows what you did last time.
+
+Neither of you knows what the other will try next."
+48,312.13,316.47,main,"During the fifth attempt, a bus pulls up behind you."
+49,316.47,321.05,main,"Two police officers step off.
+
+Finally.
+
+You open your mouth."
+50,321.05,332.41,main,"But Max has already turned the corner.
+
+The watch turns green.
+
+You click.
+
+And the officers step backward onto the bus.
+
+The doors close.
+
+The bus disappears."
+51,332.41,337.25,main,"You stare at the empty road.
+
+You just sent help away."
+52,337.25,346.1,main,"Max notices your expression.
+
+Then he notices the watch.
+
+“That thing’s worth more than the bag.”
+
+Now he comes toward you."
+53,346.1,348.9,main,You run.
+54,348.9,352.61,main,"He catches your jacket.
+
+You wait for green."
+55,352.61,355.41,main,"Click.
+
+Back at the café."
+56,355.41,358.74,main,"He starts running immediately.
+
+So do you."
+57,358.74,367.73,main,"For the first time, knowing the future doesn’t make you feel safe.
+
+It means the man chasing you knows where you ran."
+58,367.73,376.7,main,"You reach the corner.
+
+Stop.
+
+The bus.
+
+It arrives near the end of this half-minute.
+
+Same road. Same stop. Same officers."
+59,376.7,398.09,main,"Max never saw them.
+
+He was already around the corner.
+
+You look at the watch.
+
+Twenty seconds.
+
+You could tell him about the police.
+
+You could threaten him.
+
+Instead, you glance down the alley.
+
+Then at your wrist.
+
+Max smiles.
+
+He thinks you’re waiting to escape again.
+
+You let him believe it."
+60,398.09,402.67,main,"Ten seconds.
+
+You back toward the bus stop.
+
+He follows."
+61,402.67,414.15,main,"Five.
+
+An engine growls behind you.
+
+The bus pulls in.
+
+The doors open.
+
+You step aside.
+
+Two officers step down.
+
+Max is still reaching for your wrist."
+62,414.15,421.0,main,"“This man took that backpack,” you say.
+
+The owner runs out of the café.
+
+“That’s him!”"
+63,421.0,434.86,main,"Max looks at the officers.
+
+Then at the green light.
+
+He almost laughs.
+
+“Fine. Go on, then.”
+
+You understand what he’s waiting for.
+
+Another attempt.
+
+Another clean street.
+
+Another chance to get away."
+64,434.86,443.22,main,"Your thumb rests on the button.
+
+Then you lower your hand.
+
+For once, the next thirty seconds belong to everybody."
+65,443.22,448.06,main,"Later, the owner buys you a coffee.
+
+You knock it over."
+66,448.06,458.42,main,"Your hand moves toward your watch.
+
+Across the table, he’s already reaching for napkins.
+
+“Don’t worry,” he says. “Happens.”
+
+You help him clean it up."
+67,458.42,466.66,main,"So, if you could rewind thirty seconds, what would you change first?
+
+And who would you really hope couldn’t remember?"
