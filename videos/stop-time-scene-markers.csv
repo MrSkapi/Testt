@@ -1,0 +1,187 @@
+shot,start_seconds,end_seconds,scene
+s001,0,4.45,phone / drop
+s002,4.45,6.2,face / 
+s003,6.2,9.32,phone / freeze
+s004,9.32,11.6,city / frozen
+s005,11.6,13.53,pigeon / 
+s006,13.53,16.1,phone / pickup
+s007,16.1,18.8,city / sidestep
+s008,18.8,21.4,city / resume
+s009,21.4,23.2,pigeon / resume
+s010,23.2,27.55,phone / bill
+s011,27.55,29.8,face / 
+s012,29.8,33.05,title / 
+s013,33.05,35.4,graphic / rules
+s014,35.4,38.05,city / freeze
+s015,38.05,40.35,graphic / world
+s016,40.35,43.2,graphic / breath
+s017,43.2,45.65,graphic / dark
+s018,45.65,48.65,graphic / object
+s019,48.65,50.85,graphic / putdown
+s020,50.85,54.05,graphic / people
+s021,54.05,57.25,graphic / needs
+s022,57.25,59.6,face / 
+s023,59.6,62.75,prank / wide
+s024,62.75,65.1,prank / toss
+s025,65.1,67.45,prank / swap
+s026,67.45,70.15,prank / reaction
+s027,70.15,73.0,prank / inspect
+s028,73.0,75.55,prank / fruit
+s029,75.55,79.2,cta / 
+s030,79.2,82.55,title / 
+s031,82.55,85.45,bed / alarm
+s032,85.45,88.25,stairs / walk
+s033,88.25,89.95,graphic / monday
+s034,89.95,91.4,shower / 
+s035,91.4,92.75,breakfast / 
+s036,92.75,94.3,iron / 
+s037,94.3,96.65,work / arrive
+s038,96.65,98.2,face / 
+s039,98.2,100.05,breakfast / 
+s040,100.05,102.65,grocery / 
+s041,102.65,105.5,grocery / checking
+s042,105.5,107.55,grocery / checking
+s043,107.55,111.2,graphic / shopping
+s044,111.2,114.0,face / 
+s045,114.0,117.45,hands / wide
+s046,117.45,119.95,hands / paper
+s047,119.95,122.65,hands / scissors
+s048,122.65,125.5,graphic / rounds
+s049,125.5,128.3,face / 
+s050,128.3,131.55,prank / silent
+s051,131.55,134.7,gaming / 
+s052,134.7,138.15,gaming / 
+s053,138.15,140.55,face / 
+s054,140.55,144.0,prank / wide
+s055,144.0,147.35,graphic / answers
+s056,147.35,149.6,graphic / answers
+s057,149.6,153.8,face / 
+s058,153.8,156.7,bed / 
+s059,156.7,158.6,graphic / monday
+s060,158.6,160.35,bed / wake
+s061,160.35,162.6,breakfast / 
+s062,162.6,165.05,bed / 
+s063,165.05,168.05,graphic / monday
+s064,168.05,171.35,graphic / monday
+s065,171.35,174.25,city / moving
+s066,174.25,177.2,work / 
+s067,177.2,180.1,city / walk
+s068,180.1,183.25,face / 
+s069,183.25,186.1,graphic / calendar
+s070,186.1,188.8,work / meeting
+s071,188.8,191.4,train / 
+s072,191.4,194.15,microwave / 
+s073,194.15,197.0,movie / 
+s074,197.0,199.5,microwave / 
+s075,199.5,202.35,face / 
+s076,202.35,205.5,mother / 
+s077,205.5,208.75,face / 
+s078,208.75,211.5,graphic / dual
+s079,211.5,213.75,work / 
+s080,213.75,216.15,cleaning / extra
+s081,216.15,218.15,city / walk
+s082,218.15,220.25,bed / 
+s083,220.25,222.1,graphic / extra
+s084,222.1,224.1,face / 
+s085,224.1,226.15,shoes / 
+s086,226.15,228.3,grocery / 
+s087,228.3,231.2,graphic / haircuts
+s088,231.2,235.25,graphic / aging
+s089,235.25,238.3,graphic / aging
+s090,238.3,240.0,face / 
+s091,240.0,243.05,graphic / cost
+s092,243.05,245.1,graphic / emergencies
+s093,245.1,247.3,graphic / restaurant
+s094,247.3,249.55,face / 
+s095,249.55,252.15,graphic / emergencies
+s096,252.15,255.25,lonely / 
+s097,255.25,258.55,lonely / 
+s098,258.55,261.55,lonely / crowd
+s099,261.55,264.8,prank / silent
+s100,264.8,267.0,face / 
+s101,267.0,270.15,prank / joke
+s102,270.15,272.9,face / 
+s103,272.9,275.5,station / 
+s104,275.5,278.5,face / 
+s105,278.5,281.25,hardware / bracket
+s106,281.25,284.1,hardware / tilt
+s107,284.1,286.6,hardware / cable
+s108,286.6,288.65,victim / 
+s109,288.65,291.25,station / freeze
+s110,291.25,294.65,station / 
+s111,294.65,297.3,victim / 
+s112,297.3,299.8,victim / 
+s113,299.8,302.2,victim / 
+s114,302.2,305.45,push / 
+s115,305.45,308.4,graphic / strength
+s116,308.4,311.35,carry / 
+s117,311.35,313.4,outside / place
+s118,313.4,315.5,carry / 
+s119,315.5,317.45,carry / 
+s120,317.45,320.75,carry / 
+s121,320.75,323.2,exhausted / 
+s122,323.2,326.35,roof / spreading
+s123,326.35,329.85,map / 
+s124,329.85,332.5,map / paths
+s125,332.5,335.2,trolley / insert
+s126,335.2,338.0,trolley / load
+s127,338.0,340.8,trolley / outside
+s128,340.8,343.55,map / paths
+s129,343.55,345.75,station / 
+s130,345.75,348.25,victim / 
+s131,348.25,351.25,trolley / outside
+s132,351.25,354.1,outside / friend
+s133,354.1,356.8,exhausted / arms
+s134,356.8,359.25,outside / rest
+s135,359.25,361.55,sandwich / 
+s136,361.55,364.3,outside / 
+s137,364.3,367.5,graphic / water
+s138,367.5,370.3,graphic / water
+s139,370.3,373.3,roof / 
+s140,373.3,375.5,station / 
+s141,375.5,378.55,trolley / wheelchair
+s142,378.55,381.1,graphic / timecost
+s143,381.1,383.4,map / sections
+s144,383.4,385.35,search / 
+s145,385.35,387.05,search / counter
+s146,387.05,390.8,bench / 
+s147,390.8,393.4,exhausted / 
+s148,393.4,396.25,father / 
+s149,396.25,398.15,father / 
+s150,398.15,400.25,carry / 
+s151,400.25,403.3,hand / 
+s152,403.3,405.1,father / reunited
+s153,405.1,407.0,search / bathrooms
+s154,407.0,409.1,search / counter
+s155,409.1,411.6,map / empty
+s156,411.6,413.85,station / 
+s157,413.85,415.4,station / 
+s158,415.4,417.3,outside / friend
+s159,417.3,419.7,outside / lower
+s160,419.7,422.3,lastlook / 
+s161,422.3,424.2,lastlook / stepback
+s162,424.2,427.1,collapse / 
+s163,427.1,429.55,collapse / 
+s164,429.55,431.5,collapse / 
+s165,431.5,433.6,dustdoors / 
+s166,433.6,436.2,reaction / mother
+s167,436.2,438.5,reaction / family
+s168,438.5,441.7,outside / 
+s169,441.7,444.6,outside / rest
+s170,444.6,447.0,reaction / friend
+s171,447.0,449.05,exhausted / 
+s172,449.05,451.5,trolley / wheelchair
+s173,451.5,454.65,prank / dinner
+s174,454.65,457.35,prank / dinner
+s175,457.35,460.0,spoon / fall
+s176,460.0,461.25,spoon / twitch
+s177,461.25,463.3,spoon / floor
+s178,463.3,465.6,waiter / 
+s179,465.6,467.8,face / 
+s180,467.8,470.95,prank / story
+s181,470.95,473.7,prank / listening
+s182,473.7,475.4,prank / listening
+s183,475.4,479.45,graphic / question
+s184,479.45,482.0,title / 
+s185,482.0,484.35,graphic / comments
+s186,484.35,488.0,prank / inspect
