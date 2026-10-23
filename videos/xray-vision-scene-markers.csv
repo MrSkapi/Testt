@@ -1,0 +1,159 @@
+shot,start_seconds,end_seconds,scene
+x001,0,2.1,city / walk
+x002,2.1,4.6,city / neighbor
+x003,4.6,7.2,face / 
+x004,7.2,8.65,face / 
+x005,8.65,11.2,city / woman
+x006,11.2,13.65,city / phone
+x007,13.65,17.05,stop / 
+x008,17.05,20.2,stop / wave
+x009,20.2,23.0,face / 
+x010,23.0,26.1,coat / surface
+x011,26.1,29.7,face / 
+x012,29.7,32.2,coat / surface
+x013,32.2,34.65,coat / pocket
+x014,34.65,36.7,coat / bones
+x015,36.7,38.35,face / 
+x016,38.35,40.5,van / 
+x017,40.5,43.6,van / packages
+x018,43.6,47.25,face / 
+x019,47.25,51.35,title / 
+x020,51.35,54.05,stop / normal
+x021,54.05,56.2,cereal / wide
+x022,56.2,58.2,cereal / front
+x023,58.2,60.45,cereal / contents
+x024,60.45,63.1,cereal / wall
+x025,63.1,66.2,cereal / neighbor
+x026,66.2,68.65,face / 
+x027,68.65,71.3,graphic / focus
+x028,71.3,74.2,cereal / front
+x029,74.2,76.55,graphic / focus
+x030,76.55,78.75,layers / 
+x031,78.75,81.25,cereal / contents
+x032,81.25,83.8,layers / 
+x033,83.8,87.0,cereal / neighbor
+x034,87.0,89.5,presents / 
+x035,89.5,92.9,cta / 
+x036,92.9,96.1,couch / scan
+x037,96.1,98.65,couch / retrieve
+x038,98.65,101.1,couch / scan
+x039,101.1,104.75,couch / fork
+x040,104.75,107.1,face / 
+x041,107.1,110.0,avocados / 
+x042,110.0,113.15,avocados / inside
+x043,113.15,116.2,avocados / inside
+x044,116.2,118.65,face / 
+x045,118.65,121.1,guess / 
+x046,121.1,123.5,guess / apple
+x047,123.5,126.05,guess / charger
+x048,126.05,128.8,guess / dino
+x049,128.8,132.3,guess / close
+x050,132.3,135.2,face / 
+x051,135.2,137.8,guess / 
+x052,137.8,140.0,coin / wide
+x053,140.0,142.5,coin / left
+x054,142.5,145.0,coin / right
+x055,145.0,148.2,coin / sleeve
+x056,148.2,150.7,face / 
+x057,150.7,154.35,graphic / rules
+x058,154.35,157.8,graphic / rules
+x059,157.8,160.6,presents / socks
+x060,160.6,163.25,presents / socks
+x061,163.25,166.1,face / 
+x062,166.1,169.35,cables / 
+x063,169.35,172.0,package / 
+x064,172.0,174.4,package / broken
+x065,174.4,177.2,machine / screw
+x066,177.2,180.0,machine / move
+x067,180.0,182.2,face / 
+x068,182.2,185.0,leak / scan
+x069,185.0,187.6,leak / scan
+x070,187.6,190.3,leak / phone
+x071,190.3,193.1,leak / paint
+x072,193.1,196.0,plumber / 
+x073,196.0,199.4,plumber / 
+x074,199.4,201.7,face / 
+x075,201.7,205.0,card / 
+x076,205.0,209.0,graphic / surfaces
+x077,209.0,212.0,menu / 
+x078,212.0,214.8,menu / through
+x079,214.8,217.9,menu / alley
+x080,217.9,220.5,face / 
+x081,220.5,223.3,crossing / van
+x082,223.3,226.1,crossing / car
+x083,226.1,229.3,crossing / near
+x084,229.3,232.0,face / 
+x085,232.0,236.5,graphic / visionfirst
+x086,236.5,240.2,bed / closed
+x087,240.2,243.3,bed / closed
+x088,243.3,247.1,bed / layers
+x089,247.1,250.3,bed / layers
+x090,250.3,253.3,downstairs / 
+x091,253.3,257.1,bed / mask
+x092,257.1,261.35,face / 
+x093,261.35,265.2,graphic / maskprice
+x094,265.2,267.2,face / 
+x095,267.2,270.6,face / 
+x096,270.6,275.6,medical / bones
+x097,275.6,278.9,medical / bones
+x098,278.9,282.1,graphic / limits
+x099,282.1,285.45,medical / engine
+x100,285.45,289.1,dog / find
+x101,289.1,292.45,dog / guilty
+x102,292.45,295.55,city / walk
+x103,295.55,298.55,rubble / crash
+x104,298.55,301.6,rubble / dust
+x105,301.6,304.7,rubble / dust
+x106,304.7,307.2,rubble / 
+x107,307.2,310.6,report / 
+x108,310.6,314.1,debris / materials
+x109,314.1,318.5,vision / tooDeep
+x110,318.5,321.15,vision / tooDeep
+x111,321.15,324.5,vision / layers
+x112,324.5,328.2,vision / found
+x113,328.2,330.25,vision / found
+x114,330.25,333.05,trapped / 
+x115,333.05,335.45,vision / side
+x116,335.45,337.8,trapped / breathe
+x117,337.8,340.55,report / point
+x118,340.55,343.5,report / question
+x119,343.5,346.35,hazard / up
+x120,346.35,349.0,hazard / up
+x121,349.0,351.65,debris / 
+x122,351.65,355.05,hazard / joint
+x123,355.05,358.25,hazard / back
+x124,358.25,360.35,report / 
+x125,360.35,363.4,arrival / 
+x126,363.4,366.2,report / question
+x127,366.2,369.4,rescuemap / direction
+x128,369.4,372.2,rescuemap / access
+x129,372.2,375.1,equipment / 
+x130,375.1,378.05,equipment / tools
+x131,378.05,381.5,wait / see
+x132,381.5,384.5,trapped / 
+x133,384.5,387.25,wait / reach
+x134,387.25,391.25,graphic / wait
+x135,391.25,394.1,reaction / 
+x136,394.1,397.2,together / 
+x137,397.2,400.9,graphic / one
+x138,400.9,403.7,passage / 
+x139,403.7,406.25,trapped / light
+x140,406.25,409.2,out / 
+x141,409.2,411.6,reunion / 
+x142,411.6,414.1,hands / 
+x143,414.1,416.9,pavement / 
+x144,416.9,420.1,ending / 
+x145,420.1,423.05,ending / peek
+x146,423.05,426.0,face / 
+x147,426.0,429.0,ending / 
+x148,429.0,432.1,ending / open
+x149,432.1,436.1,ending / toy
+x150,436.1,439.1,ending / toy
+x151,439.1,442.0,city / normal
+x152,442.0,445.15,coat / surface
+x153,445.15,448.1,city / wave
+x154,448.1,450.55,face / 
+x155,450.55,454.0,graphic / question
+x156,454.0,457.0,graphic / comments
+x157,457.0,460.2,couch / scan
+x158,460.2,463.5,couch / fork
