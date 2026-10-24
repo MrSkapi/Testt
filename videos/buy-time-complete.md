@@ -1,3 +1,5 @@
+**Latest revised version:** [Buy Time v2 — more action, brighter varied colours, no hat](buy-time-complete-v2.md).
+
 # What If Youth Became a Subscription? — complete film
 
 [Download MP4](https://github.com/MrSkapi/Testt/raw/refs/heads/main/videos/buy-time-complete.mp4)
