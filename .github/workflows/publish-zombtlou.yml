@@ -1,0 +1,74 @@
+name: Publish animated chapter download
+
+on:
+  push:
+    branches: [main]
+    paths: [videos/zombtlou-animated-release.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zombtlou-animated-release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Verify and assemble the rendered MP4
+        id: video
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, os, pathlib, shutil
+          root = pathlib.Path.cwd().resolve()
+          manifest = json.loads((root / 'videos/zombtlou-animated-release.json').read_text())
+          def safe_file(name):
+              path = (root / name).resolve()
+              if root not in path.parents or not path.is_file():
+                  raise ValueError('Invalid asset path')
+              return path
+          output = root / 'release-output'
+          output.mkdir(exist_ok=True)
+          name = manifest['filename']
+          if pathlib.Path(name).name != name:
+              raise ValueError('Invalid output filename')
+          target = output / name
+          digest = hashlib.sha256()
+          with target.open('wb') as dst:
+              for item in manifest['parts']:
+                  source = safe_file(item['file'])
+                  payload = source.read_bytes()
+                  if len(payload) != item['bytes'] or hashlib.sha256(payload).hexdigest() != item['sha256']:
+                      raise ValueError('Video part checksum mismatch')
+                  dst.write(payload)
+                  digest.update(payload)
+          if digest.hexdigest() != manifest['sha256'] or target.stat().st_size != manifest['bytes']:
+              raise ValueError('MP4 checksum mismatch')
+          for key in ['sources', 'contact_sheet', 'notes']:
+              source = safe_file(manifest[key])
+              shutil.copyfile(source, output / source.name)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write('tag=' + manifest['tag'] + '\n')
+              f.write('title=' + manifest['title'] + '\n')
+              f.write('notes=' + str(output / pathlib.Path(manifest['notes']).name) + '\n')
+          print('Verified MP4:', name, target.stat().st_size, 'bytes')
+          PY
+      - name: Publish direct downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ steps.video.outputs.tag }}
+          RELEASE_TITLE: ${{ steps.video.outputs.title }}
+          RELEASE_NOTES: ${{ steps.video.outputs.notes }}
+        shell: bash
+        run: |
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" --title "$RELEASE_TITLE" --notes-file "$RELEASE_NOTES"
+          fi
+          gh release upload "$RELEASE_TAG" release-output/*.mp4 release-output/*.zip release-output/*.jpg --clobber
