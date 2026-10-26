@@ -1,42 +1,32 @@
 {
-  "tag": "zombtlou-animated-chapter1-v2",
-  "title": "Five Days — full animated chapter / полная часть",
-  "filename": "zombtlou-animated-chapter1-full.mp4",
-  "bytes": 466018890,
-  "sha256": "47fc0c6626afa0830de7f0f86d86739179018651537d9e4862ea4ea98125c07e",
+  "tag": "zombtlou-animated-chapter2-v1",
+  "title": "Five Days — Chapter 2 / полная вторая часть",
+  "filename": "zombtlou-animated-chapter2-full.mp4",
+  "bytes": 270071054,
+  "sha256": "01d0711fa8ec8e59b93649f67f44b76aca88cf24f874f5eead316889d62053c0",
   "parts": [
     {
-      "file": "videos/zombtlou-animated-master/part-000.bin",
+      "file": "videos/zombtlou-chapter2-master/part-000.bin",
       "bytes": 83886080,
-      "sha256": "5f8760c4868f8482864653ca4cafda7f95e530e61d8570c22d14e59db97663e6"
+      "sha256": "56dad602963a0b97d35f509631c9f9df1e117f1c9fe8e34d673d0cf90b9126c8"
     },
     {
-      "file": "videos/zombtlou-animated-master/part-001.bin",
+      "file": "videos/zombtlou-chapter2-master/part-001.bin",
       "bytes": 83886080,
-      "sha256": "b315ddba5576ba64dcae934ff6d232864bad9367dedfd47d76ab4036849b0ccd"
+      "sha256": "0257e777bfe3d8ed9360c551549a6163fb1cddaad36bf845421798fbbd23b8ba"
     },
     {
-      "file": "videos/zombtlou-animated-master/part-002.bin",
+      "file": "videos/zombtlou-chapter2-master/part-002.bin",
       "bytes": 83886080,
-      "sha256": "c3777d6b98bbb4c1407fc970dc89ae8a81e4aa1c384e79056817a42446caee9f"
+      "sha256": "af69188bab46b27d277c7b883b74697a5b6d25b1f71e008846954362913a42c6"
     },
     {
-      "file": "videos/zombtlou-animated-master/part-003.bin",
-      "bytes": 83886080,
-      "sha256": "e28e15d439b16e139fdb1da01e35608099a6088f464ce1926ce81b9cb38491dd"
-    },
-    {
-      "file": "videos/zombtlou-animated-master/part-004.bin",
-      "bytes": 83886080,
-      "sha256": "e62824e64ff563f6fe01dc753e1af3c33b8e5b840d35e83f53b42e8aab7dd3f1"
-    },
-    {
-      "file": "videos/zombtlou-animated-master/part-005.bin",
-      "bytes": 46588490,
-      "sha256": "9b05a8950b902a679136f7c9a6329206c10ad719ea3a658c050dd65598879b54"
+      "file": "videos/zombtlou-chapter2-master/part-003.bin",
+      "bytes": 18412814,
+      "sha256": "b37a5b350346f3b439bd783a2663c9c434299ec3408573d19cbc40d09331c0b7"
     }
   ],
-  "sources": "videos/zombtlou-animated-full-sources.zip",
-  "contact_sheet": "videos/zombtlou-animated-full-contact.jpg",
-  "notes": "videos/zombtlou-animated-full.md"
+  "sources": "videos/zombtlou-chapter2-sources.zip",
+  "contact_sheet": "videos/zombtlou-chapter2-contact.jpg",
+  "notes": "videos/zombtlou-chapter2.md"
 }
