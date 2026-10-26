@@ -1,0 +1,173 @@
+id,start,end,view,mode,scene
+fa001,0.0,2.7083333333333335,absence,months,"Framed family photograph, untouched car keys and calendar in the actual room. Beat: months"
+fa002,2.7083333333333335,5.5,home,offer,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: offer
+fa003,5.5,8.083333333333334,keyClose,grip,Insert: Evan tightens his grip around the unchanged car keys. Beat: grip
+fa004,8.083333333333334,11.083333333333334,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa005,11.083333333333334,14.083333333333334,screen,glance,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: glance"
+fa006,14.083333333333334,17.0,face,dread,"Reaction close-up, with blurred physical location and motivated eye line. Beat: dread"
+fa007,17.0,20.083333333333332,screen,silent,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: silent"
+fa008,20.083333333333332,23.416666666666668,absence,flashback,"Framed family photograph, untouched car keys and calendar in the actual room. Beat: flashback"
+fa009,23.416666666666668,26.5,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa010,26.5,30.291666666666668,memoryCall,last,Insert: the last phone message beside a family photograph. Beat: last
+fa011,30.291666666666668,32.208333333333336,absence,empty,"Framed family photograph, untouched car keys and calendar in the actual room. Beat: empty"
+fa012,32.208333333333336,35.0,advert,first,An online advertisement shows a woman introducing a baby to a reconstruction. Beat: first
+fa013,35.0,38.291666666666664,face,listen,"Reaction close-up, with blurred physical location and motivated eye line. Beat: listen"
+fa014,38.291666666666664,41.208333333333336,advert,first,An online advertisement shows a woman introducing a baby to a reconstruction. Beat: first
+fa015,41.208333333333336,44.791666666666664,advert,baby,An online advertisement shows a woman introducing a baby to a reconstruction. Beat: baby
+fa016,44.791666666666664,47.708333333333336,advert,twice,An online advertisement shows a woman introducing a baby to a reconstruction. Beat: twice
+fa017,47.708333333333336,50.0,uploads,photos,"Family photographs, home video, messages and email are uploaded through a real monitor. Beat: photos"
+fa018,50.0,51.5,uploads,videos,"Family photographs, home video, messages and email are uploaded through a real monitor. Beat: videos"
+fa019,51.5,53.0,uploads,messages,"Family photographs, home video, messages and email are uploaded through a real monitor. Beat: messages"
+fa020,53.0,54.708333333333336,uploads,emails,"Family photographs, home video, messages and email are uploaded through a real monitor. Beat: emails"
+fa021,54.708333333333336,57.416666666666664,mechanism,face,Digital history flows through the server to a reconstructed face; an explanatory insert. Beat: face
+fa022,57.416666666666664,60.0,mechanism,predict,Digital history flows through the server to a reconstructed face; an explanatory insert. Beat: predict
+fa023,60.0,63.083333333333336,mechanism,notbrain,Digital history flows through the server to a reconstructed face; an explanatory insert. Beat: notbrain
+fa024,63.083333333333336,66.41666666666667,home,typing,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: typing
+fa025,66.41666666666667,69.79166666666667,rules,history,"Concrete account settings, permissions and independent-account notice on a screen. Beat: history"
+fa026,69.79166666666667,72.79166666666667,rules,memories,"Concrete account settings, permissions and independent-account notice on a screen. Beat: history"
+fa027,72.79166666666667,75.70833333333333,rules,camera,"Concrete account settings, permissions and independent-account notice on a screen. Beat: camera"
+fa028,75.70833333333333,78.20833333333333,rules,allow,"Concrete account settings, permissions and independent-account notice on a screen. Beat: allow"
+fa029,78.20833333333333,81.58333333333333,rules,independent,"Concrete account settings, permissions and independent-account notice on a screen. Beat: independent"
+fa030,81.58333333333333,84.20833333333333,home,first,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: first
+fa031,84.20833333333333,87.5,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa032,87.5,91.5,face,laughCry,"Reaction close-up, with blurred physical location and motivated eye line. Beat: laughCry"
+fa033,91.5,94.08333333333333,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa034,94.08333333333333,97.5,home,sunrise,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: sunrise
+fa035,97.5,101.0,kitchen,drawer,Evan stirs a pot while Dad watches from a laptop on the kitchen counter. Beat: drawer
+fa036,101.0,104.0,motherCall,no,Mother in her warm kitchen declines the suggestion. Beat: no
+fa037,104.0,106.20833333333333,face,listen,"Reaction close-up, with blurred physical location and motivated eye line. Beat: listen"
+fa038,106.20833333333333,109.08333333333333,motherCall,no,Mother in her warm kitchen declines the suggestion. Beat: no
+fa039,109.08333333333333,112.20833333333333,home,ordinary,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: ordinary
+fa040,112.20833333333333,115.5,kitchen,cook,Evan stirs a pot while Dad watches from a laptop on the kitchen counter. Beat: cook
+fa041,115.5,118.0,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa042,118.0,121.5,friend,ask,Two-shot: a friend challenges Evan; a ringing phone interrupts the conversation. Beat: ask
+fa043,121.5,124.58333333333333,friend,explain,Two-shot: a friend challenges Evan; a ringing phone interrupts the conversation. Beat: explain
+fa044,124.58333333333333,127.08333333333333,handheld,ring,Macro: a hand holds Dad’s video call on a physical phone. Beat: ring
+fa045,127.08333333333333,129.70833333333334,handheld,smile,Macro: a hand holds Dad’s video call on a physical phone. Beat: smile
+fa046,129.70833333333334,133.08333333333334,garage,covered,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: covered"
+fa047,133.08333333333334,135.91666666666666,garage,covered,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: covered"
+fa048,135.91666666666666,138.79166666666666,garage,hood,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: hood"
+fa049,138.79166666666666,141.79166666666666,garage,hood,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: hood"
+fa050,141.79166666666666,144.70833333333334,uploads,videos,"Family photographs, home video, messages and email are uploaded through a real monitor. Beat: videos"
+fa051,144.70833333333334,148.70833333333334,engine,connect,Macro: Evan’s hand guides a wrench onto a loose engine connection. Beat: connect
+fa052,148.70833333333334,152.0,ignition,try,"Macro: key turns in ignition, instruments respond to the narration. Beat: try"
+fa053,152.0,155.08333333333334,handheld,sad,Macro: a hand holds Dad’s video call on a physical phone. Beat: sad
+fa054,155.08333333333334,158.08333333333334,face,realize,"Reaction close-up, with blurred physical location and motivated eye line. Beat: realize"
+fa055,158.08333333333334,161.08333333333334,server,disappointed,Brief comic cutaway to an expensive server rack. Beat: disappointed
+fa056,161.08333333333334,163.58333333333334,ignition,start,"Macro: key turns in ignition, instruments respond to the narration. Beat: start"
+fa057,163.58333333333334,166.41666666666666,garage,start,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: start"
+fa058,166.41666666666666,169.08333333333334,garage,together,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: together"
+fa059,169.08333333333334,171.08333333333334,messages,video,Physical phone screen: the repaired car video and Mother’s responses. Beat: video
+fa060,171.08333333333334,172.5,messages,heart,Physical phone screen: the repaired car video and Mother’s responses. Beat: heart
+fa061,172.5,175.08333333333334,messages,dinner,Physical phone screen: the repaired car video and Mother’s responses. Beat: dinner
+fa062,175.08333333333334,178.20833333333334,routine,routine,Evan and Dad establish a routine in a furnished room. Beat: routine
+fa063,178.20833333333334,181.58333333333334,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa064,181.58333333333334,184.41666666666666,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa065,184.41666666666666,187.41666666666666,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa066,187.41666666666666,190.08333333333334,face,listen,"Reaction close-up, with blurred physical location and motivated eye line. Beat: listen"
+fa067,190.08333333333334,193.0,lake,normal,"Warm childhood memory at the river: keys fall, ripples expand, a fish passes. Beat: normal"
+fa068,193.0,196.08333333333334,lake,drop,"Warm childhood memory at the river: keys fall, ripples expand, a fish passes. Beat: drop"
+fa069,196.08333333333334,198.58333333333334,lake,fish,"Warm childhood memory at the river: keys fall, ripples expand, a fish passes. Beat: fish"
+fa070,198.58333333333334,201.5,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa071,201.5,204.08333333333334,face,realize,"Reaction close-up, with blurred physical location and motivated eye line. Beat: realize"
+fa072,204.08333333333334,207.0,handheld,smile,Macro: a hand holds Dad’s video call on a physical phone. Beat: smile
+fa073,207.0,210.08333333333334,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa074,210.08333333333334,213.20833333333334,memoryCards,learn,Yesterday/today photo evidence visualises the reconstruction adopting Evan’s correction. Beat: learn
+fa075,213.20833333333334,216.41666666666666,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa076,216.41666666666666,219.5,memoryCards,learn,Yesterday/today photo evidence visualises the reconstruction adopting Evan’s correction. Beat: learn
+fa077,219.5,222.41666666666666,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa078,222.41666666666666,225.41666666666666,memoryCards,learn,Yesterday/today photo evidence visualises the reconstruction adopting Evan’s correction. Beat: learn
+fa079,225.41666666666666,228.5,coat,go,Evan gets ready to leave while the laptop copy asks him to stay. Beat: go
+fa080,228.5,231.41666666666666,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa081,231.41666666666666,234.41666666666666,coat,stay,Evan gets ready to leave while the laptop copy asks him to stay. Beat: stay
+fa082,234.41666666666666,237.41666666666666,screen,glance,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: glance"
+fa083,237.41666666666666,240.5,windowStill,closed,Insert: the permanently closed window behind the reconstructed father. Beat: closed
+fa084,240.5,243.08333333333334,windowStill,empty,Insert: the permanently closed window behind the reconstructed father. Beat: empty
+fa085,243.08333333333334,245.29166666666666,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa086,245.29166666666666,248.20833333333334,decline,message,Evan declines Mother’s call and sends a message. Beat: message
+fa087,248.20833333333334,250.70833333333334,home,closed,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: closed
+fa088,250.70833333333334,254.20833333333334,support,question,Support question and evasive answer on a readable browser screen. Beat: question
+fa089,254.20833333333334,256.5833333333333,support,question,Support question and evasive answer on a readable browser screen. Beat: question
+fa090,256.5833333333333,260.2083333333333,support,reply,Support question and evasive answer on a readable browser screen. Beat: reply
+fa091,260.2083333333333,263.0,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa092,263.0,266.2916666666667,showBody,announce,Product announcement and a physical-body demonstration in a violet showroom. Beat: announce
+fa093,266.2916666666667,269.4166666666667,showBody,walk,Product announcement and a physical-body demonstration in a violet showroom. Beat: walk
+fa094,269.4166666666667,272.2916666666667,showBody,home,Product announcement and a physical-body demonstration in a violet showroom. Beat: home
+fa095,272.2916666666667,275.5,handheld,smile,Macro: a hand holds Dad’s video call on a physical phone. Beat: smile
+fa096,275.5,278.0,showBody,home,Product announcement and a physical-body demonstration in a violet showroom. Beat: home
+fa097,278.0,281.2083333333333,price,price,"Physical monitor shows $18,000 plus the monthly plan. Beat: price"
+fa098,281.2083333333333,283.4166666666667,price,close,"Physical monitor shows $18,000 plus the monthly plan. Beat: close"
+fa099,283.4166666666667,286.5,savings,saved,"Savings paperwork, the car photo and keys become a single composition. Beat: saved"
+fa100,286.5,289.0833333333333,screen,silent,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: silent"
+fa101,289.0833333333333,291.5,keyClose,grip,Insert: Evan tightens his grip around the unchanged car keys. Beat: grip
+fa102,291.5,294.0833333333333,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa103,294.0833333333333,296.7916666666667,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa104,296.7916666666667,299.5,screen,glance,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: glance"
+fa105,299.5,302.0833333333333,home,offer,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: offer
+fa106,302.0833333333333,304.4166666666667,garage,still,Insert: the unchanged blue car and keys before any buyer arrives.
+fa107,304.4166666666667,307.0833333333333,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa108,307.0833333333333,310.0,home,secret,Evan listens and reacts across a physical desk from the laptop copy of Dad. Beat: secret
+fa109,310.0,312.7916666666667,screen,glance,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: glance"
+fa110,312.7916666666667,315.2916666666667,face,dread,"Reaction close-up, with blurred physical location and motivated eye line. Beat: dread"
+fa111,315.2916666666667,318.5,carOffer,photo,The buyer inspects the same blue car; Evan holds the camera or reacts. Beat: photo
+fa112,318.5,321.2916666666667,carOffer,inspect,The buyer inspects the same blue car; Evan holds the camera or reacts. Beat: inspect
+fa113,321.2916666666667,324.5833333333333,carOffer,price,The buyer inspects the same blue car; Evan holds the camera or reacts. Beat: price
+fa114,324.5833333333333,327.5,paperwork,documents,Vehicle documents on the desk; the buyer is visible through the window. Beat: documents
+fa115,327.5,330.0833333333333,handheld,smile,Macro: a hand holds Dad’s video call on a physical phone. Beat: smile
+fa116,330.0833333333333,333.2916666666667,paperwork,window,Vehicle documents on the desk; the buyer is visible through the window. Beat: window
+fa117,333.2916666666667,336.0833333333333,keyClose,grip,Insert: Evan tightens his grip around the unchanged car keys. Beat: grip
+fa118,336.0833333333333,338.5,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa119,338.5,341.5,screen,sad,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: sad"
+fa120,341.5,344.2083333333333,quoteMemory,memory,Family photo and archived conversation become evidence of emotional pressure. Beat: memory
+fa121,344.2083333333333,347.0833333333333,face,cry,"Reaction close-up, with blurred physical location and motivated eye line. Beat: cry"
+fa122,347.0833333333333,350.2916666666667,quoteMemory,memory,Family photo and archived conversation become evidence of emotional pressure. Beat: memory
+fa123,350.2916666666667,353.0833333333333,handheld,silent,Macro: a hand holds Dad’s video call on a physical phone. Beat: silent
+fa124,353.0833333333333,356.2083333333333,quoteMemory,all,Family photo and archived conversation become evidence of emotional pressure. Beat: all
+fa125,356.2083333333333,358.4166666666667,face,dread,"Reaction close-up, with blurred physical location and motivated eye line. Beat: dread"
+fa126,358.4166666666667,360.7916666666667,handheld,end,Macro: a hand holds Dad’s video call on a physical phone. Beat: end
+fa127,360.7916666666667,363.5,reject,no,Evan refuses the sale and the disappointed buyer walks away; Dad’s car stays. Beat: no
+fa128,363.5,366.5833333333333,reject,leave,Evan refuses the sale and the disappointed buyer walks away; Dad’s car stays. Beat: leave
+fa129,366.5833333333333,369.4166666666667,garage,still,"Wide garage with the old blue car, tool wall, repair props and phone against toolbox. Beat: still"
+fa130,369.4166666666667,372.0833333333333,keyClose,grip,Insert: Evan tightens his grip around the unchanged car keys. Beat: grip
+fa131,372.0833333333333,374.2083333333333,handheld,ring,Macro: a hand holds Dad’s video call on a physical phone. Beat: ring
+fa132,374.2083333333333,376.5833333333333,turnPhone,over,Evan turns the ringing phone face down on the desk. Beat: over
+fa133,376.5833333333333,379.5833333333333,arrive,key,"Evan uses his own key, enters Mother’s hallway and stops at the kitchen door. Beat: key"
+fa134,379.5833333333333,382.2083333333333,arrive,walk,"Evan uses his own key, enters Mother’s hallway and stops at the kitchen door. Beat: walk"
+fa135,382.2083333333333,385.4166666666667,arrive,stop,"Evan uses his own key, enters Mother’s hallway and stops at the kitchen door. Beat: stop"
+fa136,385.4166666666667,388.2916666666667,momTable,laugh,"Mother, her laptop and Evan share a stable kitchen layout. Beat: laugh"
+fa137,388.2916666666667,391.2916666666667,momTable,reveal,"Mother, her laptop and Evan share a stable kitchen layout. Beat: reveal"
+fa138,391.2916666666667,394.0833333333333,screen,joke,"Insert: Dad inside his video-call window, crooked glasses and patterned shirt. Beat: joke"
+fa139,394.0833333333333,397.0833333333333,momTable,reveal,"Mother, her laptop and Evan share a stable kitchen layout. Beat: reveal"
+fa140,397.0833333333333,399.2916666666667,momTable,close,"Mother, her laptop and Evan share a stable kitchen layout. Beat: close"
+fa141,399.2916666666667,402.5,momTable,question,"Mother, her laptop and Evan share a stable kitchen layout. Beat: question"
+fa142,402.5,405.0,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa143,405.0,408.0833333333333,momTable,question,"Mother, her laptop and Evan share a stable kitchen layout. Beat: question"
+fa144,408.0833333333333,411.2083333333333,face,dread,"Reaction close-up, with blurred physical location and motivated eye line. Beat: dread"
+fa145,411.2083333333333,414.0,momTable,tell,"Mother, her laptop and Evan share a stable kitchen layout. Beat: tell"
+fa146,414.0,417.0,closedLid,closed,A closed laptop on the kitchen table; a new incoming call interrupts. Beat: closed
+fa147,417.0,420.0,momTable,withdraw,"Mother, her laptop and Evan share a stable kitchen layout. Beat: withdraw"
+fa148,420.0,423.2083333333333,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa149,423.2083333333333,426.2916666666667,momTable,closed,"Mother, her laptop and Evan share a stable kitchen layout. Beat: closed"
+fa150,426.2916666666667,429.0,closedLid,closed,A closed laptop on the kitchen table; a new incoming call interrupts. Beat: closed
+fa151,429.0,432.0833333333333,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa152,432.0833333333333,435.0833333333333,closedLid,phone,A closed laptop on the kitchen table; a new incoming call interrupts. Beat: phone
+fa153,435.0833333333333,437.7083333333333,face,listen,"Reaction close-up, with blurred physical location and motivated eye line. Beat: listen"
+fa154,437.7083333333333,440.0,handheld,silent,Macro: a hand holds Dad’s video call on a physical phone. Beat: silent
+fa155,440.0,442.5833333333333,devices,open,Both physical devices are opened and turned so their cameras can see each other. Beat: open
+fa156,442.5833333333333,445.5,devices,align,Both physical devices are opened and turned so their cameras can see each other. Beat: align
+fa157,445.5,448.4166666666667,duel,silent,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: silent"
+fa158,448.4166666666667,451.2083333333333,devices,both,Both physical devices are opened and turned so their cameras can see each other. Beat: both
+fa159,451.2083333333333,453.4166666666667,duel,both,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: both"
+fa160,453.4166666666667,456.4166666666667,face,sad,"Reaction close-up, with blurred physical location and motivated eye line. Beat: sad"
+fa161,456.4166666666667,459.5,duel,mother,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: mother"
+fa162,459.5,462.2083333333333,devices,mother,Both physical devices are opened and turned so their cameras can see each other. Beat: mother
+fa163,462.2083333333333,464.4166666666667,devices,hands,Both physical devices are opened and turned so their cameras can see each other. Beat: hands
+fa164,464.4166666666667,467.2083333333333,duel,stop,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: stop"
+fa165,467.2083333333333,469.5,handheld,lookother,Macro: a hand holds Dad’s video call on a physical phone. Beat: lookother
+fa166,469.5,472.0,duel,closer,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: closer"
+fa167,472.0,475.0833333333333,duel,whisper,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: whisper"
+fa168,475.0833333333333,478.2916666666667,final,question,Two copies remain visible; restrained English viewer question and red Subscribe/blue Like. Beat: question
+fa169,478.2916666666667,480.9166666666667,final,question,Two copies remain visible; restrained English viewer question and red Subscribe/blue Like. Beat: question
+fa170,480.9166666666667,484.0833333333333,final,cta,Two copies remain visible; restrained English viewer question and red Subscribe/blue Like. Beat: cta
+fa171,484.0833333333333,486.4166666666667,duel,stop,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: stop"
+fa172,486.4166666666667,489,duel,silent,"Final confrontation: two versions of Dad on the phone and laptop, never floating avatars. Beat: silent"
