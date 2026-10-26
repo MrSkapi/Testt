@@ -1,32 +1,32 @@
 {
-  "tag": "zombtlou-animated-chapter2-v1",
-  "title": "Five Days — Chapter 2 / полная вторая часть",
-  "filename": "zombtlou-animated-chapter2-full.mp4",
-  "bytes": 270071054,
-  "sha256": "01d0711fa8ec8e59b93649f67f44b76aca88cf24f874f5eead316889d62053c0",
+  "tag": "zombtlou-animated-chapter2-v2",
+  "title": "Five Days — Chapter 2 v2 / исправленные движения",
+  "filename": "zombtlou-animated-chapter2-v2.mp4",
+  "bytes": 269030092,
+  "sha256": "7f4706535dd07b53fee740d64857b23a4b6c6632b872ba41eea7711d246bae17",
   "parts": [
     {
-      "file": "videos/zombtlou-chapter2-master/part-000.bin",
+      "file": "videos/zombtlou-chapter2-v2-master/part-000.bin",
       "bytes": 83886080,
-      "sha256": "56dad602963a0b97d35f509631c9f9df1e117f1c9fe8e34d673d0cf90b9126c8"
+      "sha256": "3172cebab98b2f4f1746616fe5f52b0bd342482a1e03521d87c27b9ec6213047"
     },
     {
-      "file": "videos/zombtlou-chapter2-master/part-001.bin",
+      "file": "videos/zombtlou-chapter2-v2-master/part-001.bin",
       "bytes": 83886080,
-      "sha256": "0257e777bfe3d8ed9360c551549a6163fb1cddaad36bf845421798fbbd23b8ba"
+      "sha256": "947e2dc0142677bedfc77a901062ed98155a6929426c7c4fe1881fab08a05a6f"
     },
     {
-      "file": "videos/zombtlou-chapter2-master/part-002.bin",
+      "file": "videos/zombtlou-chapter2-v2-master/part-002.bin",
       "bytes": 83886080,
-      "sha256": "af69188bab46b27d277c7b883b74697a5b6d25b1f71e008846954362913a42c6"
+      "sha256": "c1c382366c6ddcd6d4b400ae96afb9d593d7219a3be1dc2f048d4431316138c9"
     },
     {
-      "file": "videos/zombtlou-chapter2-master/part-003.bin",
-      "bytes": 18412814,
-      "sha256": "b37a5b350346f3b439bd783a2663c9c434299ec3408573d19cbc40d09331c0b7"
+      "file": "videos/zombtlou-chapter2-v2-master/part-003.bin",
+      "bytes": 17371852,
+      "sha256": "a69ff5259ac2137a0d3c1208a336dc99d79654ec53ac0583e89b8ed50bbe27e4"
     }
   ],
-  "sources": "videos/zombtlou-chapter2-sources.zip",
-  "contact_sheet": "videos/zombtlou-chapter2-contact.jpg",
-  "notes": "videos/zombtlou-chapter2.md"
+  "sources": "videos/zombtlou-chapter2-v2-sources.zip",
+  "contact_sheet": "videos/zombtlou-chapter2-v2-contact.jpg",
+  "notes": "videos/zombtlou-chapter2-v2.md"
 }
