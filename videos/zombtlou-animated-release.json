@@ -1,32 +1,22 @@
 {
-  "tag": "zombtlou-animated-chapter2-v2",
-  "title": "Five Days — Chapter 2 v2 / исправленные движения",
-  "filename": "zombtlou-animated-chapter2-v2.mp4",
-  "bytes": 269030092,
-  "sha256": "7f4706535dd07b53fee740d64857b23a4b6c6632b872ba41eea7711d246bae17",
+  "tag": "cinema-survival-quarter-waves-v1",
+  "title": "The Last Show — full cinema survival animation",
+  "filename": "cinema-survival-quarter-waves.mp4",
+  "bytes": 141430905,
+  "sha256": "b4c05621595dab96ddb9206027c2bd8927342450da2407b07f632af1026a17f8",
   "parts": [
     {
-      "file": "videos/zombtlou-chapter2-v2-master/part-000.bin",
+      "file": "videos/cinema-quarter-master/part-000.bin",
       "bytes": 83886080,
-      "sha256": "3172cebab98b2f4f1746616fe5f52b0bd342482a1e03521d87c27b9ec6213047"
+      "sha256": "18820c9067f1c1f1d17144c2abfdde6f4650b938dee6efeb604dd72b0317f51a"
     },
     {
-      "file": "videos/zombtlou-chapter2-v2-master/part-001.bin",
-      "bytes": 83886080,
-      "sha256": "947e2dc0142677bedfc77a901062ed98155a6929426c7c4fe1881fab08a05a6f"
-    },
-    {
-      "file": "videos/zombtlou-chapter2-v2-master/part-002.bin",
-      "bytes": 83886080,
-      "sha256": "c1c382366c6ddcd6d4b400ae96afb9d593d7219a3be1dc2f048d4431316138c9"
-    },
-    {
-      "file": "videos/zombtlou-chapter2-v2-master/part-003.bin",
-      "bytes": 17371852,
-      "sha256": "a69ff5259ac2137a0d3c1208a336dc99d79654ec53ac0583e89b8ed50bbe27e4"
+      "file": "videos/cinema-quarter-master/part-001.bin",
+      "bytes": 57544825,
+      "sha256": "f283caf42f86f58107fefdcf125ace07a2b5ddaf2058eab23f066bffd45ce474"
     }
   ],
-  "sources": "videos/zombtlou-chapter2-v2-sources.zip",
-  "contact_sheet": "videos/zombtlou-chapter2-v2-contact.jpg",
-  "notes": "videos/zombtlou-chapter2-v2.md"
+  "sources": "videos/cinema-survival-quarter-waves-sources.zip",
+  "contact_sheet": "videos/cinema-survival-quarter-waves-contact.jpg",
+  "notes": "videos/cinema-survival-quarter-waves.md"
 }
