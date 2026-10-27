@@ -1,0 +1,159 @@
+id,start,end,view,mode,scene
+ap001,0.0,2.7916666666666665,handset,eleven,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: eleven
+ap002,2.7916666666666665,5.916666666666667,bed,knock,The hero sits on the shelter bed; the door/knock and phone create the cold-open tension. Beat: knock
+ap003,5.916666666666667,9.083333333333334,doorway,phone,Mara remains on the right at the shelter threshold; both actual phones are visible. Beat: phone
+ap004,9.083333333333334,12.083333333333334,twoPhones,forecast,Split evidence insert: both subscribers compare actual phone screens. Beat: forecast
+ap005,12.083333333333334,15.291666666666666,handset,trust,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: trust
+ap006,15.291666666666666,18.0,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap007,18.0,21.083333333333332,handset,trust,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: trust
+ap008,21.083333333333332,24.083333333333332,reaction,happy,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: happy"
+ap009,24.083333333333332,27.291666666666668,morning,casual,"Warm breakfast, objects, warning and a shoulder-attached phone action. Beat: casual"
+ap010,27.291666666666668,30.791666666666668,data,sources,"Medical, location, device and city evidence explain a conditional forecast, not a magical death countdown. Beat: sources"
+ap011,30.791666666666668,34.083333333333336,data,sources,"Medical, location, device and city evidence explain a conditional forecast, not a magical death countdown. Beat: sources"
+ap012,34.083333333333336,37.208333333333336,data,forecast,"Medical, location, device and city evidence explain a conditional forecast, not a magical death countdown. Beat: forecast"
+ap013,37.208333333333336,40.416666666666664,data,forecast,"Medical, location, device and city evidence explain a conditional forecast, not a magical death countdown. Beat: forecast"
+ap014,40.416666666666664,43.416666666666664,install,discount,The insurance discount/premium purchase is shown on a device in a furnished location. Beat: discount
+ap015,43.416666666666664,46.5,morning,casual,"Warm breakfast, objects, warning and a shoulder-attached phone action. Beat: casual"
+ap016,46.5,49.291666666666664,morning,warn,"Warm breakfast, objects, warning and a shoulder-attached phone action. Beat: warn"
+ap017,49.291666666666664,51.708333333333336,handset,elevator,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: elevator
+ap018,51.708333333333336,54.208333333333336,elevator,leave,Hero rejects the lift after the warning; the elevator doors stay behind him. Beat: leave
+ap019,54.208333333333336,57.0,stairStep,flicker,A single authored step on the stairwell and motivated light/smoke event. Beat: flicker
+ap020,57.0,60.416666666666664,elevatorAfter,trapped,"Non-graphic aftermath: a trapped adult, lift shaft structure and service barrier. Beat: trapped"
+ap021,60.416666666666664,63.208333333333336,install,premium,The insurance discount/premium purchase is shown on a device in a furnished location. Beat: premium
+ap022,63.208333333333336,66.0,maintenance,tires,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: tires"
+ap023,66.0,68.5,maintenance,doctor,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: doctor"
+ap024,68.5,71.41666666666667,maintenance,train,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: train"
+ap025,71.41666666666667,75.08333333333333,maintenance,doctor,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: doctor"
+ap026,75.08333333333333,78.41666666666667,bike,stop,A warning stops the hero at the curb before an attached rider/cycle passes. Beat: stop
+ap027,78.41666666666667,81.5,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap028,81.5,84.29166666666667,permissions,start,"Specific car, route, smart-lock and emergency permissions are granted in sequence. Beat: start"
+ap029,84.29166666666667,87.41666666666667,permissions,car,"Specific car, route, smart-lock and emergency permissions are granted in sequence. Beat: car"
+ap030,87.41666666666667,90.41666666666667,permissions,locks,"Specific car, route, smart-lock and emergency permissions are granted in sequence. Beat: locks"
+ap031,90.41666666666667,93.0,permissions,emergency,"Specific car, route, smart-lock and emergency permissions are granted in sequence. Beat: emergency"
+ap032,93.0,96.20833333333333,office,forecast,"The fatal-smoke forecast arrives at work, away from any actual fire. Beat: forecast"
+ap033,96.20833333333333,99.20833333333333,handset,forecast,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: forecast
+ap034,99.20833333333333,102.0,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap035,102.0,104.58333333333333,office,forecast,"The fatal-smoke forecast arrives at work, away from any actual fire. Beat: forecast"
+ap036,104.58333333333333,108.0,hotel,first,Different hotel reservations still produce the same death time. Beat: first
+ap037,108.0,111.5,handset,hotel,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: hotel
+ap038,111.5,115.0,hotel,second,Different hotel reservations still produce the same death time. Beat: second
+ap039,115.0,118.0,handset,hotel,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: hotel
+ap040,118.0,120.20833333333333,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap041,120.20833333333333,123.41666666666667,friendCall,call,Calling a friend also moves the forecast to that address. Beat: call
+ap042,123.41666666666667,126.5,friendCall,forecast,Calling a friend also moves the forecast to that address. Beat: forecast
+ap043,126.5,130.0,shelterBooking,reserve,"The advertised filtered air, backup power and automated security sell the shelter reservation. Beat: reserve"
+ap044,130.0,133.20833333333334,shelterBooking,air,"The advertised filtered air, backup power and automated security sell the shelter reservation. Beat: air"
+ap045,133.20833333333334,136.0,shelterBooking,pay,"The advertised filtered air, backup power and automated security sell the shelter reservation. Beat: pay"
+ap046,136.0,139.0,carRide,ride,Hero is a passenger in an autonomous car; smoke over the city is visible through the window. Beat: ride
+ap047,139.0,142.0,map,first,Two route changes go around the warehouse fire toward the same shelter. Beat: first
+ap048,142.0,145.08333333333334,map,alternate,Two route changes go around the warehouse fire toward the same shelter. Beat: alternate
+ap049,145.08333333333334,148.20833333333334,carRide,fire,Hero is a passenger in an autonomous car; smoke over the city is visible through the window. Beat: fire
+ap050,148.20833333333334,151.41666666666666,shelterWide,safe,"The concrete shelter, bed, sealed window, vent and security door share one consistent layout. Beat: safe"
+ap051,151.41666666666666,154.0,windowCheck,closed,Hero reaches the sealed window handle; the hand target is attached by arm IK. Beat: closed
+ap052,154.0,156.29166666666666,shelterWide,safe,"The concrete shelter, bed, sealed window, vent and security door share one consistent layout. Beat: safe"
+ap053,156.29166666666666,159.20833333333334,handset,reduced,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: reduced
+ap054,159.20833333333334,161.5,reaction,relief,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: relief"
+ap055,161.5,164.5,bed,knock,The hero sits on the shelter bed; the door/knock and phone create the cold-open tension. Beat: knock
+ap056,164.5,168.0,doorway,phone,Mara remains on the right at the shelter threshold; both actual phones are visible. Beat: phone
+ap057,168.0,171.41666666666666,twoPhones,forecast,Split evidence insert: both subscribers compare actual phone screens. Beat: forecast
+ap058,171.41666666666666,174.41666666666666,doorway,phone,Mara remains on the right at the shelter threshold; both actual phones are visible. Beat: phone
+ap059,174.41666666666666,177.0,handset,trust,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: trust
+ap060,177.0,180.08333333333334,twoPhones,trust,Split evidence insert: both subscribers compare actual phone screens. Beat: trust
+ap061,180.08333333333334,183.08333333333334,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap062,183.08333333333334,186.08333333333334,doorway,back,Mara remains on the right at the shelter threshold; both actual phones are visible. Beat: back
+ap063,186.08333333333334,189.0,twoPhones,forecast,Split evidence insert: both subscribers compare actual phone screens. Beat: forecast
+ap064,189.0,192.08333333333334,map,first,Two route changes go around the warehouse fire toward the same shelter. Beat: first
+ap065,192.08333333333334,195.41666666666666,map,alternate,Two route changes go around the warehouse fire toward the same shelter. Beat: alternate
+ap066,195.41666666666666,198.41666666666666,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap067,198.41666666666666,201.0,doorway,phone,Mara remains on the right at the shelter threshold; both actual phones are visible. Beat: phone
+ap068,201.0,204.08333333333334,roomRisk,test,A phone/wide split-screen shows Mara moving across the open threshold as confidence changes. Beat: test
+ap069,204.08333333333334,207.08333333333334,roomRisk,test,A phone/wide split-screen shows Mara moving across the open threshold as confidence changes. Beat: test
+ap070,207.08333333333334,210.20833333333334,roomRisk,test,A phone/wide split-screen shows Mara moving across the open threshold as confidence changes. Beat: test
+ap071,210.20833333333334,213.08333333333334,roomRisk,test,A phone/wide split-screen shows Mara moving across the open threshold as confidence changes. Beat: test
+ap072,213.08333333333334,216.20833333333334,roomPair,talk,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: talk"
+ap073,216.20833333333334,219.20833333333334,roomPair,talk,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: talk"
+ap074,219.20833333333334,222.29166666666666,emergency,hold,Emergency services place the call on hold. Beat: hold
+ap075,222.29166666666666,225.0,emergency,hold,Emergency services place the call on hold. Beat: hold
+ap076,225.0,228.0,carRejected,unsafe,Automated protection rejects the car due to outdoor air. Beat: unsafe
+ap077,228.0,230.58333333333334,carRejected,unsafe,Automated protection rejects the car due to outdoor air. Beat: unsafe
+ap078,230.58333333333334,233.58333333333334,disable,off,The hero explicitly confirms ending automated protection. Beat: off
+ap079,233.58333333333334,236.08333333333334,lock,release,The electronic lock releases. Beat: release
+ap080,236.08333333333334,239.08333333333334,stairStep,smoke,A single authored step on the stairwell and motivated light/smoke event. Beat: smoke
+ap081,239.08333333333334,242.0,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap082,242.0,245.08333333333334,roomPair,expert,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: expert"
+ap083,245.08333333333334,248.20833333333334,buildingPlan,stairs,"A building-plan insert explains the sole smoky stairwell, sealed windows and service shaft. Beat: stairs"
+ap084,248.20833333333334,251.0,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap085,251.0,254.29166666666666,buildingPlan,sealed,"A building-plan insert explains the sole smoky stairwell, sealed windows and service shaft. Beat: sealed"
+ap086,254.29166666666666,257.2083333333333,roomPair,expert,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: expert"
+ap087,257.2083333333333,260.0833333333333,buildingPlan,sealed,"A building-plan insert explains the sole smoky stairwell, sealed windows and service shaft. Beat: sealed"
+ap088,260.0833333333333,263.0,fan,stop,The powered air fan slows and stops. Beat: stop
+ap089,263.0,266.0833333333333,handset,timer,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: timer
+ap090,266.0833333333333,269.0833333333333,servicePanel,failed,Mara identifies the failed backup battery in the physical service panel. Beat: failed
+ap091,269.0833333333333,272.0,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap092,272.0,275.4166666666667,capacity,alternative,A roof refuge has independent air but capacity for one person only. Beat: alternative
+ap093,275.4166666666667,278.2083333333333,capacity,one,A roof refuge has independent air but capacity for one person only. Beat: one
+ap094,278.2083333333333,281.2083333333333,twoPhones,capacity,Split evidence insert: both subscribers compare actual phone screens. Beat: capacity
+ap095,281.2083333333333,284.0,reaction,shock,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: shock"
+ap096,284.0,287.0,hesitation,hide,"The hero hesitates, then shares the screen instead of concealing the recommendation. Beat: hide"
+ap097,287.0,290.0833333333333,hesitation,ask,"The hero hesitates, then shares the screen instead of concealing the recommendation. Beat: ask"
+ap098,290.0833333333333,293.0,twoPhones,capacity,Split evidence insert: both subscribers compare actual phone screens. Beat: capacity
+ap099,293.0,296.0,twoPhones,capacity,Split evidence insert: both subscribers compare actual phone screens. Beat: capacity
+ap100,296.0,299.0,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap101,299.0,302.5,competing,routes,Two subscriber objectives converge on the same single refuge; records/diagrams explain the conflict. Beat: routes
+ap102,302.5,305.5833333333333,competing,priority,Two subscriber objectives converge on the same single refuge; records/diagrams explain the conflict. Beat: priority
+ap103,305.5833333333333,308.4166666666667,roomPair,talk,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: talk"
+ap104,308.4166666666667,311.2083333333333,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap105,311.2083333333333,314.2083333333333,competing,reserve,Two subscriber objectives converge on the same single refuge; records/diagrams explain the conflict. Beat: reserve
+ap106,314.2083333333333,317.2916666666667,competing,reserve,Two subscriber objectives converge on the same single refuge; records/diagrams explain the conflict. Beat: reserve
+ap107,317.2916666666667,320.4166666666667,twoPhones,capacity,Split evidence insert: both subscribers compare actual phone screens. Beat: capacity
+ap108,320.4166666666667,323.0833333333333,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap109,323.0833333333333,326.4166666666667,servicePanel,failed,Mara identifies the failed backup battery in the physical service panel. Beat: failed
+ap110,326.4166666666667,329.2083333333333,roomPair,expert,"Hero left, Mara right: conversation, expertise and inspection maintain their spatial roles. Beat: expert"
+ap111,329.2083333333333,332.2083333333333,pullHatch,reach,Standing on the bed gives the hero sufficient reach to pull the actual ceiling hatch. Beat: reach
+ap112,332.2083333333333,335.5,pullHatch,open,Standing on the bed gives the hero sufficient reach to pull the actual ceiling hatch. Beat: open
+ap113,335.5,338.5833333333333,unverified,route,The app lacks inspection/camera data for this route; uncertainty is not certainty of danger. Beat: route
+ap114,338.5833333333333,342.0,unverified,route,The app lacks inspection/camera data for this route; uncertainty is not certainty of danger. Beat: route
+ap115,342.0,345.0,buildingPlan,hatch,"A building-plan insert explains the sole smoky stairwell, sealed windows and service shaft. Beat: hatch"
+ap116,345.0,348.0833333333333,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap117,348.0833333333333,351.0833333333333,flashlight,on,Mara switches on a physical flashlight and inspects the shaft. Beat: on
+ap118,351.0833333333333,354.0,unverified,route,The app lacks inspection/camera data for this route; uncertainty is not certainty of danger. Beat: route
+ap119,354.0,356.4166666666667,pocket,away,Hero puts the phone into his hoodie pocket and chooses to look. Beat: away
+ap120,356.4166666666667,359.5,climb,low,"Narrow metal cutaway, braced limbs, heat below and Mara following the hero. Beat: low"
+ap121,359.5,362.5833333333333,climb,low,"Narrow metal cutaway, braced limbs, heat below and Mara following the hero. Beat: low"
+ap122,362.5833333333333,365.7083333333333,climb,low,"Narrow metal cutaway, braced limbs, heat below and Mara following the hero. Beat: low"
+ap123,365.7083333333333,368.0833333333333,reaction,tired,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: tired"
+ap124,368.0833333333333,370.9166666666667,climb,upper,"Narrow metal cutaway, braced limbs, heat below and Mara following the hero. Beat: upper"
+ap125,370.9166666666667,373.7916666666667,grill,push,"A rigid grille blocks the exit; fasteners, slipping tool and two-person bending are distinct actions. Beat: push"
+ap126,373.7916666666667,376.4166666666667,toolPass,tool,Mara passes the service-panel screwdriver upward to the hero. Beat: tool
+ap127,376.4166666666667,379.4166666666667,grill,screw,"A rigid grille blocks the exit; fasteners, slipping tool and two-person bending are distinct actions. Beat: screw"
+ap128,379.4166666666667,382.0833333333333,grill,drop,"A rigid grille blocks the exit; fasteners, slipping tool and two-person bending are distinct actions. Beat: drop"
+ap129,382.0833333333333,385.5,grill,bend,"A rigid grille blocks the exit; fasteners, slipping tool and two-person bending are distinct actions. Beat: bend"
+ap130,385.5,388.7083333333333,grill,bend,"A rigid grille blocks the exit; fasteners, slipping tool and two-person bending are distinct actions. Beat: bend"
+ap131,388.7083333333333,392.0,helpRoof,help,The hero helps Mara emerge through the hatch rather than abandoning her. Beat: help
+ap132,392.0,395.2083333333333,helpRoof,help,The hero helps Mara emerge through the hatch rather than abandoning her. Beat: help
+ap133,395.2083333333333,398.2083333333333,roofWide,refuge,"A small white one-person refuge has a green lock, but both remain together. Beat: refuge"
+ap134,398.2083333333333,401.2083333333333,roofWide,look,"A small white one-person refuge has a green lock, but both remain together. Beat: look"
+ap135,401.2083333333333,404.4166666666667,passRefuge,past,The pair walks past the refuge toward another way down. Beat: past
+ap136,404.4166666666667,408.0,roofPlan,ladder,A physical diagram reveals an unshared maintenance connection to the neighboring building. Beat: ladder
+ap137,408.0,411.2083333333333,roofPlan,records,A physical diagram reveals an unshared maintenance connection to the neighboring building. Beat: records
+ap138,411.2083333333333,414.2916666666667,ladder,down,Close hands grip the service ladder during the descent. Beat: down
+ap139,414.2916666666667,417.4166666666667,safeRoof,time,Both sit on the neighboring roof beside a water tank; the deadline passes without their deaths. Beat: time
+ap140,417.4166666666667,420.4166666666667,safeRoof,updated,Both sit on the neighboring roof beside a water tank; the deadline passes without their deaths. Beat: updated
+ap141,420.4166666666667,423.0,handset,updated,A real held phone shows the story-specific warning/forecast; no floating head labels. Beat: updated
+ap142,423.0,426.4166666666667,incident,report,The incident review lists true technical failures but omits the conflicting abandonment messages. Beat: report
+ap143,426.4166666666667,429.7916666666667,incident,report,The incident review lists true technical failures but omits the conflicting abandonment messages. Beat: report
+ap144,429.7916666666667,433.2083333333333,incident,missing,The incident review lists true technical failures but omits the conflicting abandonment messages. Beat: missing
+ap145,433.2083333333333,436.5,report,screenshots,Both screenshots are attached and read before the report is submitted. Beat: screenshots
+ap146,436.5,440.0,report,review,Both screenshots are attached and read before the report is submitted. Beat: review
+ap147,440.0,443.0,report,submit,Both screenshots are attached and read before the report is submitted. Beat: submit
+ap148,443.0,446.0833333333333,refund,refund,The shelter is refunded; the new automated-protection offer is declined. Beat: refund
+ap149,446.0833333333333,449.0833333333333,refund,decline,The shelter is refunded; the new automated-protection offer is declined. Beat: decline
+ap150,449.0833333333333,451.9166666666667,maintenance,doctor,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: doctor"
+ap151,451.9166666666667,454.7083333333333,maintenance,tires,"Literal tyre, medical appointment and train-warning benefits establish justified trust. Beat: tires"
+ap152,454.7083333333333,457.5833333333333,coffee,first,Warm daylight at a real cafe; medical/tyre warnings are retained while human contact replaces delegation. Beat: first
+ap153,457.5833333333333,460.2916666666667,textMara,message,The hero texts Mara directly instead of asking the protection system. Beat: message
+ap154,460.2916666666667,463.0,coffee,happy,Warm daylight at a real cafe; medical/tyre warnings are retained while human contact replaces delegation. Beat: happy
+ap155,463.0,466.0833333333333,reaction,think,"A character reaction held on the narration beat, with depth and motivated eye line. Beat: think"
+ap156,466.0833333333333,469.2916666666667,closing,question,"Coffee, paper and an inactive protection screen carry the final question in a furnished location. Beat: question"
+ap157,469.2916666666667,471.2083333333333,closing,question,"Coffee, paper and an inactive protection screen carry the final question in a furnished location. Beat: question"
+ap158,471.2083333333333,473,closing,hold,"Coffee, paper and an inactive protection screen carry the final question in a furnished location. Beat: hold"
