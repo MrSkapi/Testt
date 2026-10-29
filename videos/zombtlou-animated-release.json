@@ -1,22 +1,22 @@
 {
-  "tag": "cinema-survival-quarter-waves-v1",
-  "title": "The Last Show — full cinema survival animation",
-  "filename": "cinema-survival-quarter-waves.mp4",
-  "bytes": 141430905,
-  "sha256": "b4c05621595dab96ddb9206027c2bd8927342450da2407b07f632af1026a17f8",
+  "tag": "cinema-survival-part2-v1",
+  "title": "The Last Show — Part Two / complete animation",
+  "filename": "cinema-survival-part2.mp4",
+  "bytes": 112295879,
+  "sha256": "6ce2c6cadb04a6229a068e1bb40069c2a4c4f9e274fa19ef04abc75a4c95af1b",
   "parts": [
     {
-      "file": "videos/cinema-quarter-master/part-000.bin",
+      "file": "videos/cinema-part2-master/part-000.bin",
       "bytes": 83886080,
-      "sha256": "18820c9067f1c1f1d17144c2abfdde6f4650b938dee6efeb604dd72b0317f51a"
+      "sha256": "39b055139ee2c78f99297ecbc0b7cf25f5012f8e92fbdf5d00f7f27ff5c0299b"
     },
     {
-      "file": "videos/cinema-quarter-master/part-001.bin",
-      "bytes": 57544825,
-      "sha256": "f283caf42f86f58107fefdcf125ace07a2b5ddaf2058eab23f066bffd45ce474"
+      "file": "videos/cinema-part2-master/part-001.bin",
+      "bytes": 28409799,
+      "sha256": "8d408241d232d3a19987a63c1961940b6ab1c0b8e89f69e31d01b838af14b246"
     }
   ],
-  "sources": "videos/cinema-survival-quarter-waves-sources.zip",
-  "contact_sheet": "videos/cinema-survival-quarter-waves-contact.jpg",
-  "notes": "videos/cinema-survival-quarter-waves.md"
+  "sources": "videos/cinema-survival-part2-sources.zip",
+  "contact_sheet": "videos/cinema-survival-part2-contact.jpg",
+  "notes": "videos/cinema-survival-part2.md"
 }
